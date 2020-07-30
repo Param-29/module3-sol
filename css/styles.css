@@ -1,0 +1,33 @@
+.item{
+    border: 1px solid black;
+    background-color: #808080;
+    margin: 0;
+    padding: 0;
+    margin: 10px;
+    
+}
+.catgory{
+    text-align: center;
+    text-transform: uppercase;
+    border: black;
+}
+.item_name{
+    border: 1px solid black;
+    background-color: #FFFF00;
+    float: right;
+    font-size: 1.4em;
+}
+
+header{
+    text-align: center;
+}
+
+body{
+    background-image: url("../images/background.jpg");
+}
+
+.page_name{
+    font-size: 1.4em;
+    text-align: center;
+}
+
