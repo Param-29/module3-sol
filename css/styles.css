@@ -10,6 +10,7 @@
     text-align: center;
     text-transform: uppercase;
     border: black;
+    line-height: 20px;
 }
 .item_name{
     border: 1px solid black;
